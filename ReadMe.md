@@ -1,5 +1,3 @@
-Here's a well-structured README.md file for your Iris Classifier project that you can copy and paste directly:
-
 # Iris Flower Classification API
 
 A machine learning service that classifies iris flowers into three species using Random Forest, served via FastAPI.
